@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- État par défaut -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/white"/> <!-- Utilisation de la couleur white -->
+            <corners android:radius="16dp"/>
+            <stroke android:color="@color/darkbleu" android:width="2dp"/> <!-- Utilisation de la couleur black -->
+            <padding android:left="12dp" android:top="12dp" android:right="12dp" android:bottom="12dp"/>
+        </shape>
+    </item>
+</selector>
